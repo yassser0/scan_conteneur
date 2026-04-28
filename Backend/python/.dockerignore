@@ -1,0 +1,7 @@
+.git
+.gitignore
+*.md
+runs/
+containercode/
+__pycache__/
+*.pyc
